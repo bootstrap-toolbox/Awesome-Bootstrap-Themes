@@ -13,15 +13,20 @@ A curated list of free Bootstrap themes I think are cool. Inspired by awesome.
 - [License](#license)
 - [Contributions](#contributions)
 
-## Links: Templates
-
-https://colorlib.com/wp/free-admin-templates/#
-
 ## Links: Snippets
 
 https://startbootstrap.com/snippets/
 
 ## Templates
+
+### External Lists
+- [colorlib.com: 34 Best Free & Responsive Admin Templates 2020](https://colorlib.com/wp/free-admin-templates/#)
+- [cssauthor.com: 100+ Best Free Bootstrap 4 Templates 2020](https://cssauthor.com/bootstrap-templates/)
+- [downloadnewthemes.com: 35-best-free-bootstrap-themes](http://www.downloadnewthemes.com/2014/08/35-best-free-bootstrap-themes.html)
+- [40 Free Bootstrap Themes to Jump Start Your Web Design Project](http://savedelete.com/2014/08/15/free-bootstrap-themes/174529)
+- [bootstrappage.com: Free Bootstrap Themes](http://www.bootstrappage.com/free_bootstrap_templates.php)
+- [webdesignwheel.com: 75+ Free Bootstrap HTML5 Website Templates](http://webdesignwheel.com/free-bootstrap-html5-website-templates.html)
+
 
 ### Single Page Templates
 | Name | Screenshot |
@@ -72,12 +77,6 @@ https://startbootstrap.com/snippets/
 - [Flat UI](http://designmodo.github.io/Flat-UI/)
 - [todc-bootstrap (Google-styled theme)](https://github.com/todc/todc-bootstrap)
 
-### External Lists
-*I'll list any source lists here to help generate some traffic to them too.*
-- [35-best-free-bootstrap-themes](http://www.downloadnewthemes.com/2014/08/35-best-free-bootstrap-themes.html)
-- [40 Free Bootstrap Themes to Jump Start Your Web Design Project](http://savedelete.com/2014/08/15/free-bootstrap-themes/174529)
-- [Free Bootstrap Themes](http://www.bootstrappage.com/free_bootstrap_templates.php)
-- [75+ Free Bootstrap HTML5 Website Templates](http://webdesignwheel.com/free-bootstrap-html5-website-templates.html)
 
 ## License
 
