@@ -13,6 +13,14 @@ A curated list of free Bootstrap themes I think are cool. Inspired by awesome.
 - [License](#license)
 - [Contributions](#contributions)
 
+## Links: Templates
+
+https://colorlib.com/wp/free-admin-templates/#
+
+## Links: Snippets
+
+https://startbootstrap.com/snippets/
+
 ## Templates
 
 ### Single Page Templates
