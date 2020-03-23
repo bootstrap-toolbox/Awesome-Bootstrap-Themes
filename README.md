@@ -66,6 +66,7 @@ https://startbootstrap.com/snippets/
 | [lightway](http://www.prepbootstrap.com/bootstrap-theme/lightway-admin) | ![lightway](./screenshots/admin-lightway.png) |
 | [Responsive Dashboard](https://github.com/Ehesp/Responsive-Dashboard) | ![responsive](./screenshots/admin-responsive.png) |
 | [ng2-admin](https://github.com/akveo/ng2-admin) |![ng3-admin](https://i.imgur.com/YgawGED.png) |
+| [AdminKit](https://github.com/adminkit/adminkit) | ![AdminKit](./screenshots/adminkit.png) |
 
 ### Retro Themes
 | Name | Screenshot |
